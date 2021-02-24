@@ -2,4 +2,7 @@
 .Rhistory
 .Rdata
 .httr-oauth
+
+*.html
+
 .DS_Store
